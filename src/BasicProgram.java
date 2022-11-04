@@ -31,7 +31,7 @@ public class BasicProgram {
         while(true){
 
             System.out.println("===============================");
-            System.out.println("============0번:도서 종료========");
+            System.out.println("============0번: 종료========");
             System.out.println("============1번:도서 삽입========");
             System.out.println("============2번:도서 삭제========");
             System.out.println("============3번:도서 검색========");
